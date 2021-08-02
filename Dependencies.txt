@@ -1,0 +1,3 @@
+Dependencies:-
+
+Lombok, Rest Repositories, Spring Web, Spring Data JPA
